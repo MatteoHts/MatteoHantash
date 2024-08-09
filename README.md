@@ -1,17 +1,16 @@
-# Matteo Hantash
-
-👋 Bonjour à tous, je suis Matteo Hantash, un développeur front-end passionné !
+# 👋 Bonjour, je suis Matteo Hantash
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
 
 ## 🚀 À propos de moi
 
-- 🎨 Passionné par la création d'interfaces utilisateur attrayantes et interactives
-- 💻 Compétences : HTML, CSS, JavaScript, React, Vue.js
-- 🌱 J'apprends actuellement : TypeScript, GraphQL
-- 📫 Comment me contacter : [votre.email@example.com](mailto:votre.email@example.com)
-- 🌐 Mon portfolio : [votre-portfolio.com](http://votre-portfolio.com)
+Je suis un développeur front-end passionné avec une expertise en création d'interfaces utilisateur attrayantes et interactives. Mon objectif est de contribuer à des projets innovants et de repousser les limites du développement web.
+
+- 🎨 **Compétences** : HTML, CSS, JavaScript, React, Vue.js
+- 🌱 **J'apprends actuellement** : TypeScript, GraphQL
+- 📫 **Comment me contacter** : [votre.email@example.com](mailto:votre.email@example.com)
+- 🌐 **Mon portfolio** : [votre-portfolio.com](http://votre-portfolio.com)
 
 ![Developer GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
@@ -30,8 +29,19 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
-## 📫 Contactez-moi
+## 🎨 Projets
+
+### Projet 1 - Nom du Projet
+![Project 1 Screenshot](https://via.placeholder.com/400x200)
+Description rapide du projet avec les technologies utilisées.
+
+### Projet 2 - Nom du Projet
+![Project 2 Screenshot](https://via.placeholder.com/400x200)
+Description rapide du projet avec les technologies utilisées.
+
+## 🌐 Connectez-vous avec moi
 
 <p align="left">
   <a href="https://github.com/yourusername" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
