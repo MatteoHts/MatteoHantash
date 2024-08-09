@@ -1,6 +1,5 @@
 # 👋 Bonjour, je suis Matteo Hantash
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
 
 ## 🚀 À propos de moi
