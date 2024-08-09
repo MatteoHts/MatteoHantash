@@ -11,8 +11,6 @@ Je suis un développeur front-end passionné avec une expertise en création d'i
 - 📫 **Comment me contacter** : [votre.email@example.com](mailto:votre.email@example.com)
 - 🌐 **Mon portfolio** : [votre-portfolio.com](http://votre-portfolio.com)
 
-![Developer GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
-
 ## 🛠️ Technologies et Outils
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
