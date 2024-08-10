@@ -10,7 +10,7 @@
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="https://e7.pngegg.com/pngimages/327/873/png-clipart-computer-science-desktop-programmer-computer-text-computer.png" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height="175px"/></a>
 
 </br>
 
