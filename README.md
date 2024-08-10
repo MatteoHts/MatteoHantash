@@ -7,8 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper;Front+-+End" > 
 </p>
 
-<img align="center" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
-
+<p align="center">
+ <img align="center" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</p>
 </br> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
