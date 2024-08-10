@@ -61,7 +61,7 @@
 ## 📊 My Github Stats
 
 <p align="center" style="margin-right:0px;padding-right:0px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoHts&theme=radical&layout=compact&langs_count=6" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoHts&theme=tokyonight&layout=compact&langs_count=6" width="60%" />
 </p>
 
 ## Connect with me:
