@@ -10,8 +10,10 @@
 
 </br> 
 
-
+<p align="center"> 
  <img align="center" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</p>
+ 
 
 </br> 
 
