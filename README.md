@@ -3,8 +3,8 @@
 </h1>
  
 
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper;‎‎ +‎ +‎ +‎ +Front+-+End" > 
+<p align="Coder GIF">
+ <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper;‎‎Front+-+End" > 
 </p>
 
 <p align="center">
