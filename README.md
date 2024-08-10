@@ -23,7 +23,7 @@
 ✔  I’m currently learning Everything related with software engineering . <br>
 ✔  I'm currently a technical assistant and a 3rd year student . <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@matteo-hantash](https://www.malt.fr/profile/matteo-hantash) <br>
-                         &nbsp; &nbsp; * [Email-@matteo.hts](matteo.hts@gmail.com) <br>
+                         &nbsp; &nbsp; * [Email - @matteo.hts](mailto:matteo.hts@gmail.com) <br>
                          &nbsp; &nbsp; * [linkedIn-@matteo.hantash](https://www.linkedin.com/in/matteo-hantash-1b9358306/) <br>
                          &nbsp; &nbsp; * [Website-@matteo-hantash.com](https://matteo-hantash.com/) <br>
 
@@ -67,8 +67,8 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taha-alani/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-  <a href="mailto:taha.alani@epitech.eu?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/matteo-hantash-1b9358306/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="mailto:matteo.hts@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 </p>
 
 <h2 align='center'>Thank You !</h2>
