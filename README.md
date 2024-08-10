@@ -1,10 +1,10 @@
 <h1 align="center">
- 👋 Hi, I'm Taha ALANI!
+ 👋 Hi, I'm Matteo Hantash!
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper;Epitech+Paris" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper;Front+-+End" > 
 </p>
 
 
