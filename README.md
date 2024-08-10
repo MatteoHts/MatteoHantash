@@ -58,12 +58,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 My Github Stats
-
-<p align="center" style="margin-right:0px;padding-right:0px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoHts&theme=tokyonight&layout=compact&langs_count=6" width="60%" />
-</p>
-
 ## Connect with me:
 
 <p align="center">
