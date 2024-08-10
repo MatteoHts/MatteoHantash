@@ -22,20 +22,17 @@
 ✔  I’m french developer <br>
 ✔  I’m currently learning Everything related with software engineering . <br>
 ✔  I'm currently a technical assistant and a 3rd year student . <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@tahalani](https://www.malt.fr/profile/matteo-hantash) <br>
-                         &nbsp; &nbsp; * [Email-@taha.alani](matteo.hts@gmail.com) <br>
-                         &nbsp; &nbsp; * [linkedIn-@taha.alani](https://www.linkedin.com/in/matteo-hantash-1b9358306/) <br>
-                         &nbsp; &nbsp; * [Website-@taha-alani.com](https://matteo-hantash.com/) <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@matteo-hantash](https://www.malt.fr/profile/matteo-hantash) <br>
+                         &nbsp; &nbsp; * [Email-@matteo.hts](matteo.hts@gmail.com) <br>
+                         &nbsp; &nbsp; * [linkedIn-@matteo.hantash](https://www.linkedin.com/in/matteo-hantash-1b9358306/) <br>
+                         &nbsp; &nbsp; * [Website-@matteo-hantash.com](https://matteo-hantash.com/) <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left"> 💻 Languages and Tools:</h2>
 <h3>Languages</h3>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Py" alt="Py" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
