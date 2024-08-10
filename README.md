@@ -1,45 +1,79 @@
-# 👋 Bonjour, je suis Matteo Hantash
+<h1 align="center">
+ 👋 Hi, I'm Taha ALANI!
+</h1>
+ 
 
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
-
-## 🚀 À propos de moi
-
-Je suis un développeur front-end passionné avec une expertise en création d'interfaces utilisateur attrayantes et interactives. Mon objectif est de contribuer à des projets innovants et de repousser les limites du développement web.
-
-- 🎨 **Compétences** : HTML, CSS, JavaScript, React, Vue.js
-- 🌱 **J'apprends actuellement** : TypeScript, GraphQL
-- 📫 **Comment me contacter** : [votre.email@example.com](mailto:votre.email@example.com)
-- 🌐 **Mon portfolio** : [votre-portfolio.com](http://votre-portfolio.com)
-
-## 🛠️ Technologies et Outils
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## 📈 Statistiques GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteohts&layout=compact&theme=radical)
-
-## 🎨 Projets
-
-### Projet 1 - Nom du Projet
-![Project 1 Screenshot](https://via.placeholder.com/400x200)
-Description rapide du projet avec les technologies utilisées.
-
-### Projet 2 - Nom du Projet
-![Project 2 Screenshot](https://via.placeholder.com/400x200)
-Description rapide du projet avec les technologies utilisées.
-
-## 🌐 Connectez-vous avec moi
-
-<p align="left">
-  <a href="https://github.com/matteohts" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/matteo-hantash-1b9358306/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:matteo.hts@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper;Epitech+Paris" > 
 </p>
+
+
+</br> 
+
+<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+</br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+>✔ I'm 21 years old  <br>
+✔  I’m french developer <br>
+✔  I’m currently learning Everything related with software engineering .. <br>
+✔  some of my projects are available at https://github.com/Tahalani <br>
+✔  I'm currently a technical assistant and a 3rd year student at epitech paris. <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@tahalani](https://www.malt.fr/profile/tahalani) <br>
+                         &nbsp; &nbsp; * [Email-@taha.alani](taha.alani@epitech.eu) <br>
+                         &nbsp; &nbsp; * [linkedIn-@taha.alani](https://www.linkedin.com/in/taha-alani/) <br>
+                         &nbsp; &nbsp; * [Website-@taha-alani.com](https://taha-alani.com/) <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left"> 💻 Languages and Tools:</h2>
+<h3>Languages</h3>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Py" alt="Py" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
+
+<h3>Library / Framework js/ts </h3>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJs" alt="NestJs" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
+
+<h3>OS / Tools</h3>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch-Linux" alt="Arch-Linux" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 My Github Stats
+
+<p align="center" style="margin-right:0px;padding-right:0px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahalani&theme=radical&layout=compact&langs_count=6" width="60%" />
+</p>
+
+## Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taha-alani/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="mailto:taha.alani@epitech.eu?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+</p>
+
+<h2 align='center'>Thank You !</h2>
+<br>
