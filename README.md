@@ -23,7 +23,7 @@
 >✔ I'm 19 years old  <br>
 ✔  I’m french developer <br>
 ✔  I’m currently learning Everything related with software engineering . <br>
-✔  I'm currently a technical assistant and a 3rd year student . <br>
+✔  I'm currently 4th year student . <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@matteo-hantash](https://www.malt.fr/profile/matteo-hantash) <br>
                          &nbsp; &nbsp; * [Email - @matteo.hts](mailto:matteo.hts@gmail.com) <br>
                          &nbsp; &nbsp; * [linkedIn-@matteo.hantash](https://www.linkedin.com/in/matteo-hantash-1b9358306/) <br>
